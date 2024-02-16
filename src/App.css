@@ -1,0 +1,38 @@
+/* *{
+    margin:0;
+    padding: 0;
+} */
+
+/* .navbar{
+    border: 1px solid black;
+    background-color: antiquewhite;
+    color: black;
+} */
+
+/* .nav{
+    color: black;
+} */
+
+/* .form{
+    border: 1px solid black;
+    width: 800px;
+    height: 200px;
+} */
+
+.mainbtn{
+    display: flex;
+    gap: 50px;
+}
+
+   .btn1{
+    background-color: powderblue;
+    border: none;
+    color: black;
+    padding: 10px 25px;
+    size: 40px;
+    margin: 20px;
+
+} 
+
+
+
